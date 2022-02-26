@@ -1,5 +1,5 @@
 ### I do full-stack Machine Learning and Data Science🚀
-- 🔭 Currently working on an automated risk event detection system using computer vision techniqyes
+- 🔭 Currently working on a computer-vision-based automated risk event detection system
 - 💬 Ask me about Machine Learning, Deep Learning, Data Science, or Artificial Intelligence
 
 
