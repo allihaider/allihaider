@@ -1,7 +1,7 @@
 ### I do full-stack Machine Learning and Data Science🚀
 - 🔭 Currently working on a computer-vision-based automated risk event detection system
 - 💬 Ask me about Machine Learning, Deep Learning, Data Science, or Artificial Intelligence
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/m-ali-haider/), [Gmail](mailto:m.allihaider@gmail.com)
+- 📫 Reach out to me over [LinkedIn](https://www.linkedin.com/in/m-ali-haider/) or via [Email](mailto:m.allihaider@gmail.com)
 <img src="https://github-readme-stats.vercel.app/api?username=allihaider&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
